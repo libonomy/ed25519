@@ -24,7 +24,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/evdatsion/ed25519/internal/edwards25519"
+	"github.com/libonomy/ed25519/internal/edwards25519"
 )
 
 const (

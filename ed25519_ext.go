@@ -1,4 +1,3 @@
-
 // ed25519 extensions
 
 package ed25519
@@ -10,7 +9,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/evdatsion/ed25519/internal/edwards25519"
+	"github.com/libonomy/ed25519/internal/edwards25519"
 )
 
 // ExtractPublicKey extracts the signer's public key given a message and its signature.
